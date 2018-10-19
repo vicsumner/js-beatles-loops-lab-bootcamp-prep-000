@@ -23,12 +23,11 @@ function johnLennonFacts(facts){
 function iLoveTheBeatles (n){
    var foo = [];
    var i = 0;
-
+    i = i + 1;
  do{
-
+    foo.push
  }
- while (i < n);
-
+ while (i < 15);
 } 
 
-return iLoveTheBeatles(15);
+return foo;
