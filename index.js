@@ -25,6 +25,7 @@ function iLoveTheBeatles (n){
 }
  do{
    foo.push(n[i] + "I love the Beatles!")
+   i++
  }
  while (i < n);
 
