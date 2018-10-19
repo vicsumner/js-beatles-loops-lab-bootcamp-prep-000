@@ -22,13 +22,12 @@ function johnLennonFacts(facts){
 
 function iLoveTheBeatles (n){
    var foo = [];
-   var i = 0;
 
  do{
     foo.push("I love the Beatles!")
-    i = n + 1;
+    n = n + 1;
  }
- while (i < 15);
+ while (n < 15);
  return foo;
 }
 
