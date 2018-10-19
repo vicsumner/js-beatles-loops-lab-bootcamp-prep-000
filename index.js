@@ -24,7 +24,7 @@ function iLoveTheBeatles (n){
    var i = 0;
 }
  do{
-   x
+   foo.push(n[i] + "")
  }
  while (i < n);
  
