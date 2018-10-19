@@ -26,7 +26,7 @@ function iLoveTheBeatles (n){
  do{
    this
  }
- while (i < )
+ while (i < n)
  
 
 
