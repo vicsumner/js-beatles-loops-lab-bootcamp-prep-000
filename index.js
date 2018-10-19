@@ -28,4 +28,5 @@ function iLoveTheBeatles (n){
     foo.push("I love the Beatles!")
  }
  while (i < 15);
-} 
+return foo;
+}
